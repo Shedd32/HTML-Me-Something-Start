@@ -1,5 +1,5 @@
 /* Write your CSS here! */
-#mainheading{
+#mainHeading{
     color: red;
     }
 
@@ -32,7 +32,7 @@ figcaption{
 footer{
     text-align: center;
 }
-p.funparagraph{
-color:green;
+p.funParagraph{
+color: green;
 }
 
